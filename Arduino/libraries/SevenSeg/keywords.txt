@@ -1,0 +1,9 @@
+################################
+#Keywords for SevenSeg library.#
+#Classes, KW1, Orange          #
+#Functions, KW2, Brown         #
+################################
+disp	KEYWORD1
+setDigitPins	KEYWORD2
+setCommonCathode	KEYWORD2
+setDPPin	KEYWORD2
